@@ -1,4 +1,4 @@
-# Структура проекта
+# Структура проекта (Backend + Models)
 
 ├── configs  
 │   ├── prediction_config.yaml   <- Сonfiguration file for prediction  
@@ -32,3 +32,7 @@
 ├── refresh_data.py    <- Periodic parsing function  
 ├── requirements.txt  
 ├── utils.py    <- Read config, date processing  
+
+# Frontend
+- [Репозиторий](https://github.com/PunkButterfly/Project_Get_N_Trends_web)  с веб-сервисом  
+- [Ссылка](https://getntrends.streamlit.app/) на веб-сервис
